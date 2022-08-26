@@ -1,6 +1,4 @@
 Stellar by Mohit
-Highlight by html5up.net | @ajlkn
-
 
 Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
 I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
